@@ -24,7 +24,7 @@ Saya adalah seorang **Software Engineer** berbasis di Bali yang berdedikasi untu
 | :--- | :--- |
 | **Frontend** | Next.js, React, Tailwind, TypeScript |
 | **Backend** | Laravel, Node.js, Python, MySQL |
-| **UI/UX & Design** | Figma, Adobe Animate, ActionScript |
+| **UI/UX & Design** | Figma |
 | **DevOps & Infra** | Git, Vercel, Postman, Docker, Kubernetes, Grafana, Proxmox |
 
 ---
