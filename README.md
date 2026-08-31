@@ -38,14 +38,6 @@ Saya adalah seorang **Software Engineer** berbasis di Bali yang berdedikasi untu
 
 ---
 
-### 🌟 Featured Projects
-
-* 📦 **EasyPOS Systems**: Sistem manajemen kasir modern dengan analitik penjualan real-time.
-* 🏥 **SobatSehat AI**: Implementasi machine learning untuk asisten kesehatan berbasis chat.
-* ☁️ **CloudyVibes**: Aplikasi cuaca interaktif yang disesuaikan untuk sektor pariwisata Bali.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="left">
